@@ -1,9 +1,9 @@
 {
-  "name":"DEXTER-V1-MD",
+  "name":"SAAJI-V1-MD",
   "description":"An easy and simple WhatsApp bot developed by France King",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/57c3083b60b2bea6ec132.jpg",
-  "repository":"https://github.com/DEXTER-BOT-1/DEXTER-V1-MD/",
+  "repository":"https://github.com/saajidbb/SAAJI-MD/",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -13,7 +13,7 @@
       "value":".",
       "required":true
     },
-    "AUTO_READ_STATUS":
+    "AUTO_READ_STATUS":"ස්ටේටස් ඔටෝ සීන් වෙනවට",
     {
       "description":"Your contact status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
       "value":"yes",
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"DEXTER-V1-MD",
+      "value":"SAAJI-V1-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"📌 Dont change ",
-      "value":"https://telegra.ph/file/e716c8220c20e3845f2cf.mp4",
+      "value":"https://telegra.ph/file/c6846ddee88bc03f26f52.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "📌 Dont chchange (වෙනස් කරන්න එපා)",
     "required": false,
-    "value": "DEXTER"
+    "value": "SAAJI"
   },
     "OWNER_NUMBER":
   {
     
     "desc": "📌 Dont chchange (වෙනස් කරන්න එපා)",
     "required":false,
-    "value": "94789958225"
+    "value": "94770160180"
   },
     "WARN_COUNT":
   {
